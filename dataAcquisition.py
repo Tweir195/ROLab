@@ -41,7 +41,7 @@ def init():
     home = str(Path.home())
     print(home)
 
-    filePath = home + '/Documents/+Current/Tow/Data/Fall2019/'
+    filePath = home + '/data_fall2019'
 
     date = datetime.today().strftime('%Y-%m-%d')
     time_start = time.time()
