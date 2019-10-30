@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ro-data-257423",
+  "private_key_id": "5a7c22292854b13e4018038a0b9f5845a37bb556",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCdljG/afzo7hQ1\nn+TYABHabSM30wpoaLarzsftdF97a5+/q1Knf4JddyQR9SH1NHHRgJCDI+JWEnJk\nzNMHpj7NT10f7c4txeXLT3U80Y9iZ/vHeGa14ymCCjQwwO8Rj8iIwtWitm/FqbVC\nB8QO90EOjj3v0ftgbfB3VNHp4vN8Gt5zN0WxGW1RgGXHxZTC4W+iKTS0+gQpEqw2\ns4FJcGsCpHnYAiUNi8KOlFua1iNPBfA9bBaWNa0Acsh/Q3JYJUPcQ7LbBAfozdjM\nwujPjwUsSGj8u55TO1WF5ScjLH229Sr6MfLJ1WOTRek7nzXyfqDjNMh7S6Zv/4w0\nVCCPRUs9AgMBAAECgf9BjrojZ3RPcrv1kw8gzOagd8au8pzh0q4ry1pg7ojKT3ul\nwSAhjmotd+MJlXELEUZIYbO82rDOHd55ELy58e8uelXDcqrTYAC5E9Ux9/wudBPK\nZ8xS3q3l61jK73iFVcuXGXbGuh7FnFRLo+9sSnBGHeamXjS1aQcgnai2JDQm7F92\nxYCTO8XEwJE1OF5k2weEGCEpWRZexjVXq6z/jWnwWS8aJ0wS2q4RNMQ4bEoG45ZR\nP7zC9TXqdEUZbMR71xNVsJQCI63cjDP5xKrce/SJvlitgUJPlipcp0+OWqvMg8ck\ntIKVmLtME9/3aZEEUr1Xi+KFSGf5RvSUGMgxIKECgYEAzTvo48uGacqnl44qZSQ/\ngJMfYSdylQXK3JORhQlCh3Jodsw7fGFwIpljxzoi+Nrj4Qm5EN5sYYv+Bjfx5kCv\n0ku12wk3M19VsXcYGh70t5+CETR96buKbFlCTMu69ad56hA0UhOZkSK3n23BjA+/\n4gVvVSAbPNG7/TJ9yPgELrECgYEAxJEZlL6MKy8M4Y0L+nZub/fn0vAjFHjySfK/\nYzTQWpICBsVBfg9/+RXqEYy2v5td4QjTV2uZSVrSDxH3ufuOimI+un+MrhMj3fbJ\ntldMnzleDqgl0eFgcRw+rpHwYm8vWcX5pzovCy7pN6uF2O3Tw0bZVlmVi9seeIS3\nbbuHQE0CgYEAnCC3SpPJ7TD9zY2ZMtggdu91L7OSt0twx9x7F3mz4tZmIfm8RyLY\n63lFLopLkIT0Vn3PC8YpLQwScyicHU2Yc6Kk9bxNAgfEaPzwmO5zvDzb9bq5DtZc\nt5Avn7xcvgRp+mXZZ5cBfCetCNu2IZbZolgAGgIStnHXUQbYKcqDZAECgYA27HRB\nY5y21Ea9HzQhn8Xr81ELV531snXAw9tGVROCuxll2ugZ2Srg5oaosLC/iSIKJvUm\nkCIcpQvcuiCGDwwdDqaIZethGGgFNVfXYz09oEHvxnwK0PappEK/dHe+iWKpqu+/\nEjri3RC9RWf43Ts2bS19OzrWATvaYPr/5k48YQKBgDmVcbLsQqx9uZI24gOsNhrF\nITy366AIJ4CPPJD2buxTvqKOaf+psK3TWa7/Xzj+zn41DBxOA18tyxqqMtrV0QpN\ndw3XwYfdQkKBHvVUd2px8QlNByBrT7PQelR8xkYCTeBPGdlAxsKPa+IXvvYCa1Lk\nXZsFqCCdbHCyCtLGjsea\n-----END PRIVATE KEY-----\n",
+  "client_email": "shawnlbertson@gmail.com",
+  "client_id": "100672430411134173131",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/towlab%40ro-data-257423.iam.gserviceaccount.com"
+}
