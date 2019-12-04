@@ -23,7 +23,7 @@ def init_serial():
     #C = 67, P = 80, \n = 10
     init_message = [49, 80, 10]
 
-    ser = serial.Serial(port='COM1', baudrate=9600,
+    ser = serial.Serial(port='COM2', baudrate=9600,
                          parity=serial.PARITY_NONE,
                           stopbits=serial.STOPBITS_ONE,
                            bytesize=serial.EIGHTBITS,
@@ -38,10 +38,11 @@ def init_serial():
 def init():
     global filePath, csvFile, time_start
 
-    home = str(Path.home())
-    print(home)
+    # home = str(Path.home())
+    # print(home)
 
-    filePath = home + '/data_fall2019'
+    # filePath = home + '/data_fall2019'
+    filePath = d'ata_fall2019'
 
     date = datetime.today().strftime('%Y-%m-%d')
     time_start = time.time()
@@ -110,3 +111,6 @@ while True:
 
 
 ser.close()
+
+"""    if userInput == 'y':
+        ser.write(str(time_tot), 'utf-8')*)"""
